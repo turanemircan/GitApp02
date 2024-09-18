@@ -3,5 +3,7 @@ public class Runner {
 
         System.out.println("Git deneme02");
         System.out.println("Git deneme03");
+        System.out.println("Git deneme04");
+        System.out.println("Git deneme05");
     }
 }
