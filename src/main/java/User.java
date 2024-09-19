@@ -3,5 +3,6 @@ public class User {
 
         System.out.println("Git version 02");
         System.out.println("Git version 03");
+        System.out.println("Git version 03");
     }
 }
