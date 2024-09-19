@@ -7,6 +7,7 @@ public class Runner {
         System.out.println("Git deneme05");
         System.out.println("Git deneme05");
         System.out.println("Git deneme05");
-        // Remote değişiklik
+        // Remote değişiklik01
+        // Remote değişiklik02
     }
 }
